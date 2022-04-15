@@ -1,12 +1,12 @@
-# DECRYPTED BY SDJ
-# Github : https://github.com/SHAHZAIN-SDJ
+# DECRYPTED BY Black-Boy
+# Github : https://github.com/Black-Boy26
  #!/usr/bin/python
 # -*- coding: utf-8
  # uncompyle6 version 3.7.4
 # Python bytecode 2.7
-# Decompiled from: Python 2.7.18 (default, Aug  1 2021, 19:01:43) 
+# Decompiled from: Python 2.7.18 (default, mar  13 2022, 12:32:43) 
 # [GCC 4.2.1 Compatible Android (6454773 based on r365631c2) Clang 9.0.8 (https:/
-# Embedded file name: James
+# Embedded file name: black
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
  
@@ -31,7 +31,7 @@ color_off="\033[0m"       # Text Reset
 os.system('clear')
  
 psb(red+'>WAIT<')
-for n in range(99999):
+for n in range(14000):
     nmbr = random.randint(1111111, 9999999)
     sys.stdout = open('.txt', 'a')
     print nmbr
